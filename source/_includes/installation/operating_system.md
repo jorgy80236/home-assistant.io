@@ -233,7 +233,7 @@ _All these can be extended if your usage calls for more resources._
     7. Click "Add Hardware" (bottom left), and select "Channel"
     8. Select device type: "unix"
     9. Select name: "org.qemu.guest_agent.0"
-    10. Finally select "Begin Instalation" (upper left corner)
+    10. Finally select "Begin Installation" (upper left corner)
 
 {% if page.installation_type == 'windows' or page.installation_type == 'linux' %}
 
